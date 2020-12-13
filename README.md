@@ -1,0 +1,2 @@
+# SSE
+Simple Symmetric Encryption
